@@ -1,0 +1,7 @@
+/* Imports all the styles into one CSS file */
+@import "common.css";
+@import "home.css";
+@import "about.css";
+@import "projects.css";
+@import "blogs.css";
+@import "post.css";
